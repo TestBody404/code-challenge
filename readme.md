@@ -23,5 +23,5 @@ Below is a demo for **Problem 2**:
 
 ![swap-component](./pics/swap-component.gif)
 
-**Problem 5** is implemented as an independent project in the crude repository, which has two branches: main and consensus-breaking-change. If you want to review the code for both branches, you’ll need to download the repository and switch between them. However, the differences between the two branches are minimal, and the implementation details are explained in its [README](./src/problem5/crude/readme.md). You can refer to this file for clarification.
+**Problem 5** is implemented as a submodule in this repository, which has two branches: main and consensus-breaking-change, and here is it's [URL](https://github.com/TestBody404/crude/tree/3c42247e34bebf9889c0b31c4d7782d774c5b964)
 
